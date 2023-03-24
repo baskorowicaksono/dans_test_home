@@ -1,4 +1,4 @@
-package dev.baskorowicaksono.dansapi.payload;
+package dev.baskorowicaksono.dansapi.payload.request;
 
 import lombok.Data;
 

@@ -2,9 +2,9 @@ package dev.baskorowicaksono.dansapi.controller;
 
 import dev.baskorowicaksono.dansapi.entity.Role;
 import dev.baskorowicaksono.dansapi.entity.User;
-import dev.baskorowicaksono.dansapi.payload.LoginDto;
-import dev.baskorowicaksono.dansapi.payload.RoleDto;
-import dev.baskorowicaksono.dansapi.payload.SignUpDto;
+import dev.baskorowicaksono.dansapi.payload.request.LoginDto;
+import dev.baskorowicaksono.dansapi.payload.request.RoleDto;
+import dev.baskorowicaksono.dansapi.payload.request.SignUpDto;
 import dev.baskorowicaksono.dansapi.repository.RoleRepository;
 import dev.baskorowicaksono.dansapi.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
