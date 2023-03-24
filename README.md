@@ -48,6 +48,7 @@ The server uses MySQL to store the data of users. Here, i created three tables, 
   "name": "string"
 }
 ```
+Add a new role first before trying to register a new user!
 
 * **Register New User Endpoint** (http://localhost:8080/api/auth/register) with request body consists of
 
